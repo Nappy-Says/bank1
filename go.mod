@@ -1,3 +1,3 @@
-module github.com/Nappy-Says/bank1
+module github.com/Nappy-Says/bank1/v2
 
 go 1.15
